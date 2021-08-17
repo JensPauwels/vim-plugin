@@ -3,5 +3,5 @@ local function hello_world()
 end
 
 return {
-  hello_world
+  hello_world = hello_world
 }
